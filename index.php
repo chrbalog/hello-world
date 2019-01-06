@@ -1,5 +1,5 @@
 <?php
-include("config.ini");
+include("config.php");
  $text = urldecode($_GET['greetings']) . " " . urldecode($_GET['name']) . "\n" . urldecode($_GET['begrüßung']) . ' ' . urldecode($_GET['anrede']) . ' ' . urldecode($_GET['spruch']) . "\n";
     
     file_put_contents($filename, $text, FILE_APPEND); 

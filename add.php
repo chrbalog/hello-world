@@ -1,5 +1,5 @@
 
-
+<!DOCTYPE HTML>
 <html>
 <head>
     <title>Der großartige Begrüßungsgenerator - Formularseite</title>
